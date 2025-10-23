@@ -9,5 +9,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: `/react-js-jsx-and-css-mastering-front-end-development-Duncanmaina58/`,
+  // base: `/react-js-jsx-and-css-mastering-front-end-development-Duncanmaina58/`,
 })
